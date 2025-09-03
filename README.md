@@ -5,7 +5,7 @@ ViLT modeli kullanarak sel afeti görüntülerinde soru-cevap analizi yapan sist
 ## 📁 Dosyalar
 
 **🔗 Eğitilmiş Model:** https://drive.google.com/file/d/1MHEEqvNtb5eMo6eEd8FHmc4deO5vcpQE/view?usp=sharing
-- Dosya: `vilt_vqa_epoch3.pth`
+- Dosya: `vilt_pretrained_model.pth`
 - Boyut: ~500MB
 
 **📊 Dataset:** https://drive.google.com/file/d/15NI9N9auATXljCUEI7-lfxzfJfln4qp-/view?usp=sharing  
